@@ -31,7 +31,7 @@ body::before {
   z-index: 0;
   inset: 0;
   background:
-    url("./back.png") center 18% / min(100vw, 1450px) auto no-repeat,
+    url("../assets/back.png") center 18% / min(100vw, 1450px) auto no-repeat,
     radial-gradient(ellipse at 78% 22%, #69151d 0, transparent 34%),
     radial-gradient(ellipse at 10% 80%, #29121a 0, transparent 38%);
   content: "";
